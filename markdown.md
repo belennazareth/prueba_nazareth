@@ -46,4 +46,20 @@ Se pueden añadir enlaces URL:
 
 [IMPLANTACIÓN DE APLICACIONES WEB](https://fp.josedomingo.org/iaw2223/1_introduccion/t2.html)
 
+O también enlaces a otros ficheros dentro del repositorio:
 
+[Fichero markdown](/fichero.md)
+
+Podemos crear tablas:
+
+| Lunes | Viernes |
+| ----------- | ----------- |
+| IAW | HLC |
+| IAW | IAW |
+| EMP | IAW |
+| *** | *** |
+| EMP | SRI |
+| SRI | SRI |
+| SRI | BBDD |
+
+![SW](/image/you-dont-know-the-power-of-markdown.jpg)
